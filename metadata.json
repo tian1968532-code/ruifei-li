@@ -1,0 +1,6 @@
+{
+  "name": "Playful Neo-Brutalist Portfolio",
+  "description": "An interactive, beautifully styled personal portfolio website with four tabs: Home, About, Articles, and Works, styled in a playful neo-brutalist cartoon look with a live customizable editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
